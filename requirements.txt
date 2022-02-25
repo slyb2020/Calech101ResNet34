@@ -1,0 +1,13 @@
+imutils~=0.5.4
+torch == 1.10.1+cu113
+matplotlib~=3.3.4
+joblib~=1.1.0
+pretrainedmodels~=0.7.4
+sklearn~=0.0
+numpy~=1.19.5
+pytest
+opencv-python~=4.5.5.62
+scikit-learn~=0.24.2
+torchvision~=0.11.2+cu113
+tqdm~=4.62.3
+torchsummary
